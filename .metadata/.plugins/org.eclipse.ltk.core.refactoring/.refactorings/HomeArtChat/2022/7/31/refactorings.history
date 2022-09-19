@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HomeArtChat/src/main/webapp/resources/images/basicMemberPhoto.png&apos; to &apos;humanICon.png&apos;" description="Rename resource &apos;basicMemberPhoto.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/resources/images/basicMemberPhoto.png" name="humanICon.png" stamp="1659173292989" updateReferences="true"/>
+</session>

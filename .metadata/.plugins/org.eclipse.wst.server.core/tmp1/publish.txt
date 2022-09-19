@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Jul 10 12:13:13 KST 2022
+org.eclipse.jst.jee.server\:HomeArt=C\:\\dev\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\HomeArt
+org.eclipse.jst.jee.server\:/binary\:C\:\\dev\\apache-maven-3.8.5\\repository\\org\\springframework\\spring-web\\5.3.20\\spring-web-5.3.20.jar=C\:\\dev\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Websocket\\WEB-INF\\lib\\spring-web-5.3.20.jar
+org.eclipse.jst.jee.server\:Websocket=C\:\\dev\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Websocket

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HomeArtAll/src/main/webapp/resources/muploadFiles/20220711234141163.jpg&apos; to &apos;20220711172204309.jpg&apos;" description="Rename resource &apos;20220711234141163.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/resources/muploadFiles/20220711234141163.jpg" name="20220711172204309.jpg" stamp="1657606651000" updateReferences="true"/>
+</session>

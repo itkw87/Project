@@ -1,0 +1,4 @@
+#Mon Jul 11 21:04:09 KST 2022
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=user.xml
